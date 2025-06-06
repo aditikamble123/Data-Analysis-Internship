@@ -1,9 +1,9 @@
-📊 Data Analysis Projects
+## 📊 Data Analysis Projects
 
 Welcome to my **Data Analysis Portfolio**!
 Here, I showcase projects where I apply data cleaning, exploratory data analysis (EDA), visualization, and machine learning to derive insights and build impactful solutions.
 
-📖 About
+## 📖 About
 
 This repository contains a collection of my **Data Analysis** and **Data Science** projects. The goal of this portfolio is to demonstrate:
 
@@ -12,7 +12,7 @@ This repository contains a collection of my **Data Analysis** and **Data Science
 * Skills in visualizing and communicating data effectively.
 * Experience using tools commonly used in data-driven environments.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
